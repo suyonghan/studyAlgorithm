@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class Tlaslation {
+public class Prob3_Tlaslation {
 	public static void main(String[] args) {
 		Solution3 s = new Solution3();
 		String[] words = { "hot", "dot", "dog", "lot", "log", "cog" };

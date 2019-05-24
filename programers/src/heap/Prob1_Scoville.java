@@ -3,7 +3,7 @@ package heap;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
-public class Solution {
+public class Prob1_Scoville {
 	public int solution(int[] scoville, int K) {
 		int answer = 0;
 		Arrays.sort(scoville);

@@ -2,7 +2,7 @@ package dfs_bfs;
 
 import java.util.*;
 
-public class TravelPath {
+public class Prob4_TravelPath {
 	public static void main(String[] args) {
 
 	}

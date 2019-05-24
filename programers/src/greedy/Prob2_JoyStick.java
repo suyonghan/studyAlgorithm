@@ -1,6 +1,6 @@
 package greedy;
 
-public class Solution2 {
+public class Prob2_JoyStick {
 	public int solution(String name) {
 		int answer = 0;
 		int count = 0;

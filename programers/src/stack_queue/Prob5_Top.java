@@ -4,7 +4,7 @@ package stack_queue;
 
 import java.util.Stack;
 
-public class Solution5 {
+public class Prob5_Top {
 	public int[] solution(int[] heights) {
 		int[] answer = new int[heights.length];
 		Stack<Integer> s = new Stack<Integer>();

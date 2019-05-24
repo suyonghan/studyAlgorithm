@@ -3,7 +3,7 @@ package stack_queue;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Solution6 {
+public class Prob6_StockPrice {
 	public int[] solution(int[] prices) {
 		Queue<Integer> q = new LinkedList<Integer>();
 		int[] answer = new int[prices.length];

@@ -1,6 +1,6 @@
 package heap;
 
-public class Solution2 {
+public class Prob2_RamyonFactory {
 	public int solution(int stock, int[] dates, int[] supplies, int k) {
 		int answer = 0;
 		int start_index = 0;

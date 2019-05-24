@@ -2,7 +2,7 @@ package dfs_bfs;
 
 import java.util.ArrayList;
 
-public class TargetNumber {
+public class Prob1_TargetNumber {
 	public static void main(String[] args) {
 		Solution1 s = new Solution1();
 		int numbers[] = { 1, 1, 1, 1, 1 };

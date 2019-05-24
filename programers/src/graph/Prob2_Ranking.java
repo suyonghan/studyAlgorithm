@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.LinkedList;
 
-public class FindRank {
+public class Prob2_Ranking {
 	public static void main(String[] args) {
 		Solution s = new Solution();
 		int n = 8;

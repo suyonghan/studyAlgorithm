@@ -1,6 +1,6 @@
 package dfs_bfs;
 
-public class Network {
+public class Prob2_Network {
 	public static void main(String[] args) {
 		Solution2 s = new Solution2();
 		int numbers[][] = { { 1, 1, 0 }, { 1, 1, 0 }, { 0, 0, 1 } };

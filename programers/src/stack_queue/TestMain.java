@@ -1,8 +1,8 @@
 package stack_queue;
 
-public class Main {
+public class TestMain {
 	public static void main(String[] args) {
-		Solution4 s = new Solution4();
+		Prob4_FuncDevelpment s = new Prob4_FuncDevelpment();
 //		int[] progresses = { 93, 30, 55 };
 //		int[] speeds = { 1, 30, 5 };
 
@@ -23,7 +23,7 @@ public class Main {
 //		s.solution(progresses, speeds);
 //		s.solution(progresses1, speeds1);
 
-		Solution5 s5 = new Solution5();
+		Prob5_Top s5 = new Prob5_Top();
 		int[] height1 = { 6, 9, 5, 7, 4 };
 		int[] height2 = { 3, 9, 9, 3, 5, 7, 2 };
 		int[] height3 = { 1, 5, 3, 6, 7, 6, 5 };

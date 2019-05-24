@@ -6,7 +6,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
-public class MostFarNode {
+public class Prob1_MostFarNode {
 	public static void main(String[] args) {
 		Solution1 s = new Solution1();
 		int n = 6;

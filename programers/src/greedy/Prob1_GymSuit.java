@@ -1,7 +1,7 @@
 package greedy;
 
 import java.util.*;
-class Solution {
+class Prob1_GymSuit {
     public static int solution(int n, int[] lost, int[] reserve) {
         List<String> lostList = new ArrayList<>();
         for(int num : lost)

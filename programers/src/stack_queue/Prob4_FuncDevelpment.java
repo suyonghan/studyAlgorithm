@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Solution4 {
+public class Prob4_FuncDevelpment {
 	public int[] solution(int[] progresses, int[] speeds) {
 		int[] result = null;
 		int[] day = new int[progresses.length];
