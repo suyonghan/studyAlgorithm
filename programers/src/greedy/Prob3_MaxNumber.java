@@ -1,8 +1,8 @@
-package sss;
+package greedy;
 
-public class Prob2_MaxNumber {
+public class Prob3_MaxNumber {
 	public static void main(String[] args) {
-		SolutionNumber s = new SolutionNumber();
+		Solution s = new Solution();
 		System.out.println(s.solution("1924", 2));
 		System.out.println(s.solution("1231234", 3));
 		System.out.println(s.solution("4199252841", 3));

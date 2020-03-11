@@ -1,4 +1,4 @@
-package sss;
+package dynamic_programming;
 
 public class Prob4_WayToSchool {
 	public static void main(String[] args) {

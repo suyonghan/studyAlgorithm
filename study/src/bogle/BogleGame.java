@@ -9,7 +9,7 @@ public class BogleGame {
 		char[][] arr = { { 'T', 'W', 'I', 'C', 'E' }, { 'I', 'S', 'C', 'U', 'B' }, { 'L', 'E', 'M', 'O', 'E' },
 				{ 'U', 'F', 'M', 'O', 'A' }, { 'S', 'O', 'I', 'T', 'U' } };
 		String[] target = { "TWICE", "IS", "SO", "BEAUTIFUL" };
-		Bogle.solution(arr, target);
+		BogleGame.solution(arr, target);
 		System.out.println(arrs);
 	}
 

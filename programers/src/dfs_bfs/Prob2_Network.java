@@ -1,4 +1,4 @@
-package sss;
+package dfs_bfs;
 
 public class Prob2_Network {
 

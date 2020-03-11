@@ -1,6 +1,6 @@
 //StackQueue 2¹ø¹®Á¦
 
-package stackQueue;
+package stack_queue;
 
 import java.util.LinkedList;
 import java.util.Queue;

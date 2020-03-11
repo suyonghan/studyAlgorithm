@@ -1,4 +1,4 @@
-package sss;
+package bruteforceSearch;
 
 import java.util.ArrayList;
 import java.util.Arrays;

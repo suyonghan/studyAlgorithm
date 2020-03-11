@@ -1,5 +1,8 @@
+package greedy;
+
 import java.util.Arrays;
-class Solution {
+
+class Solution1 {
 	public int solution(int[] people, int limit) {
 		int answer = 0;
 		int j = -1;

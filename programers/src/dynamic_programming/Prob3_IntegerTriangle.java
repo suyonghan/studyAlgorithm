@@ -1,4 +1,4 @@
-package sss;
+package dynamic_programming;
 
 import java.util.ArrayList;
 import java.util.HashSet;
@@ -19,7 +19,7 @@ public class Prob3_IntegerTriangle {
 	}
 }
 
-class Solution3 { // 시간초과(케이스 5,6,7,8)
+class Solution3 { // �떆媛꾩큹怨�(耳��씠�뒪 5,6,7,8)
 	int max = Integer.MIN_VALUE;
 
 	public int solution(int[][] triangle) {
@@ -40,7 +40,7 @@ class Solution3 { // 시간초과(케이스 5,6,7,8)
 	}
 }
 
-class Solution4 { // 시간초과(케이스 5,6,7,8)
+class Solution4 { // �떆媛꾩큹怨�(耳��씠�뒪 5,6,7,8)
 	public int solution(int[][] triangle) {
 		int answer = 0;
 		Node[][] tree = new Node[triangle.length][];
@@ -102,7 +102,7 @@ class Node {
 	}
 }
 
-class Solution5 { // bottom-up, 오류
+class Solution5 { // bottom-up, �삤瑜�
 	ArrayList<Integer> arr;
 
 	public Solution5() {
@@ -153,12 +153,12 @@ class Solution6 {
 			dp[i][i] = dp[i - 1][i - 1] + triangle[i][i];
 		}
 
-		// 2. 동적계획법 //
+		// 2. �룞�쟻怨꾪쉷踰� //
 		for (int i = 2; i < triangle.length; i++)
 			for (int j = 1; j < i; j++)
 				dp[i][j] = Math.max(dp[i - 1][j - 1], dp[i - 1][j]) + triangle[i][j];
 
-		// 3. 최대값 반환 //
+		// 3. 理쒕�媛� 諛섑솚 //
 		int max = 0;
 		for (int i = 0; i < dp.length; i++)
 			max = Math.max(max, dp[dp.length - 1][i]);

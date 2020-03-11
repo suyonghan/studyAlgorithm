@@ -1,4 +1,4 @@
-package sss;
+package dynamic_programming;
 
 public class Prob2_TileDecoration {
 	public static void main(String[] args) {

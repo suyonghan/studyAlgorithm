@@ -1,6 +1,6 @@
 //StackQueue 1¹ø¹®Á¦
 
-package stackQueue;
+package stack_queue;
 
 import java.util.Stack;
 
