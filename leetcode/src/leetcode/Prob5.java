@@ -20,7 +20,7 @@ public class Prob5 {
 
 class LongestPalindromicSubstring {
 	public String longestPalindrome(String s) {
-		if(s.equals("") || s.length() < 1)
+        if(s.equals("") || s.length() < 1)
 			return "";
 		String result = null;
 		int start = 0;
