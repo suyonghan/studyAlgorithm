@@ -25,3 +25,6 @@ start_date : 20-07-24
 
 #####Prob7. Reverse Integer
 - 정수의 역수를 저장하는 문제, overflow 및 음수처리에 대한 예외케이스 고려
+
+#####Prob8. String to Integer (atoi)
+- 유효한 정수를 가진 문자열을 정수로 변환(예외처리에 대한 문제)
