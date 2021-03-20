@@ -9,3 +9,6 @@ Day2. BoardCover
 
 Day3. QuadTree
 - url : https://www.algospot.com/judge/problem/read/QUADTREE
+
+Day4. JumnGame, TrianglePath
+- url : https://www.algospot.com/judge/problem/read/JUMPGAME,  https://www.algospot.com/judge/problem/read/TRIANGLEPATH
