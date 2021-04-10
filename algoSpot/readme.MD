@@ -15,3 +15,6 @@ Day4. JumnGame, TrianglePath
 
 Day5. Josephus
 - url : https://algospot.com/user/profile/140623
+
+Day6. Brackets2
+- url : https://algospot.com/judge/problem/read/BRACKETS2
